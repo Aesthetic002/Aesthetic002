@@ -12,7 +12,7 @@ I am a **BTech student**, passionate about **coding**, **technology**, and **art
 ---
 ## 🌟 Achievements  
 - 🏅 **Coding Ninjas Achiever Badge**  
-- 🧮 Solved 100+ submissions on **LeetCode**  
+- 🧮  100+ submissions on **LeetCode**  
 - ✅ Built projects like **Tic Tac Toe** and a **Calculator**  
 - 💡 Participated in coding contests and tackled optimization challenges  
 ---

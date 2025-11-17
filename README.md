@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm  @Aesthetic002  
-I am a **BTech student**, passionate about **coding**, **technology**, and **artistic pursuits** like photography and Hindustani classical music. My journey in tech began this year, and I am thrilled to grow every day by solving problems, learning new skills, and contributing to meaningful projects.
+I am a **BTech student**, passionate about **coding**, **technology**, and **artistic pursuits** like photography and Hindustani classical music. My journey in tech began in 2024, and I am thrilled to grow every day by solving problems, learning new skills, and contributing to meaningful projects.
 ---
 ## 🚀 Skills & Interests  
 - **Programming Languages:**  

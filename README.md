@@ -3,7 +3,7 @@ I am a **BTech student**, passionate about **coding**, **technology**, and **art
 ---
 ## 🚀 Skills & Interests  
 - **Programming Languages:**  
-  - C | C++ | HTML | DSA  
+      - C | C++ | Java |Python | DSA  
 - **Interests:**  
   - Competitive Programming  
   - Artificial Intelligence  
@@ -12,20 +12,11 @@ I am a **BTech student**, passionate about **coding**, **technology**, and **art
 ---
 ## 🌟 Achievements  
 - 🏅 **Coding Ninjas Achiever Badge**  
-- 🧮  100+ submissions on **LeetCode**  
-- ✅ Built projects like **Tic Tac Toe** and a **Calculator**  
-- 💡 Participated in coding contests and tackled optimization challenges  
+- 🧮  208+ Problems on **LeetCode**  ,Acheived **1533 rating**
+- ✅ Built projects like **House Price Prediction**, **Library Management** ,**LibGDX 2-D game for Kids**
+- 💡 Participated in **ICPC 2025 prelims** and acheived rank **1452** and tackled optimization challenges.  
 ---
-## 🛠️ Projects  
-### Tic Tac Toe Game 🎮  
-- A command-line game showcasing basic logic and gameplay strategies.  
-- **Tech stack:** C++  
--  
-### Calculator 🧮  
-- A basic calculator supporting essential operations.  
-- **Tech stack:** C++  
--
----
+
 ## 🌱 What I'm Learning  
 Currently exploring advanced topics like:  
 - Data Structures and Algorithms (DSA)  

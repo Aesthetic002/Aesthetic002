@@ -11,7 +11,7 @@ I am a **BTech student**, passionate about **coding**, **technology**, and **art
   - Software Development  
 ---
 ## 🌟 Achievements  
-- 🧮  208+ Problems on **LeetCode**  ,Acheived **1533 rating**
+- 🧮  395+ Problems on **LeetCode**  ,Acheived **1616 rating**
 - ✅ Built projects like **House Price Prediction**, **Library Management** ,**LibGDX 2-D game for Kids**
 - 💡 Participated in **ICPC 2025 prelims** and acheived rank **1452** and tackled optimization challenges.
 - 🏅 **Acheived Silver League in Google Cloud Study Jams 2025**    

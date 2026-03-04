@@ -1,30 +1,84 @@
-### Hi there! 👋 I'm  @Aesthetic002  
-I am a **BTech student**, passionate about **coding** and **technology**. My journey in tech began in 2024, and I am thrilled to grow every day by solving problems, learning new skills, and contributing to meaningful projects.
----
-## 🚀 Skills & Interests  
-- **Programming Languages:**  
-      - C | C++ | Java |Python | DSA  
-- **Interests:**  
-  - Competitive Programming  
-  - Artificial Intelligence  
-  - Cybersecurity  
-  - Software Development  
----
-## 🌟 Achievements  
-- 🧮  440+ Problems on **LeetCode**  ,Acheived **1712 rating**
-- ✅ Built projects like **House Price Prediction**, **Library Management** ,**LibGDX 2-D game for Kids**
-- 💡 Participated in **ICPC 2025 prelims** and acheived rank **1452** and tackled optimization challenges.
-- 🏅 **Acheived Silver League in Google Cloud Study Jams 2025**    
+# Hi there 👋 I'm Hemanthkumar Bhat (@Aesthetic002)
+
+🎓 **BE Student | Competitive Programmer | AI & Software Enthusiast**
+
+I’m a Computer Science undergraduate passionate about **problem solving, algorithms, and building intelligent systems**.  
+Over the past few semesters, I have focused heavily on **Data Structures & Algorithms**, **Competitive Programming**, and **AI/ML projects**, while actively participating in coding contests and hackathons.
+
+I enjoy turning ideas into practical solutions and continuously improving my engineering skills through projects and open-source learning.
+
 ---
 
-## 🌱 What I'm Learning  
-Currently exploring advanced topics like:  
-- Data Structures and Algorithms (DSA)  
-- TensorFlow and PyTorch for Machine Learning  
-- AI and Cybersecurity  
-I also actively contribute to projects and collaborate in coding clubs and hackathons.
+# 🚀 Skills
+
+### Programming
+C | C++ | Java | Python
+
+### Core Areas
+- Data Structures & Algorithms
+- Competitive Programming
+- Artificial Intelligence / Machine Learning
+- Software Development
+
+### Tools & Technologies
+- TensorFlow
+- PyTorch
+- Git & GitHub
+- Cloud (Google Cloud basics)
+
 ---
-## 🌍 Let's Connect!  
-- **LinkedIn:** [https://www.linkedin.com/in/hemanthkumar-bhat-02b860319/](#)  
-- **Email:** [bhathemanthkumar@gmail.com](#)  
-Thanks for visiting my profile! 😊 Feel free to check out my repositories and reach out to collaborate.
+
+# 🏆 Achievements
+
+- 🧠 **Solved 440+ problems on LeetCode**
+- 📈 **LeetCode Rating: 1712**
+- 🏅 **ICPC 2025 Preliminary Round – Rank 1452**
+- ☁️ **Silver League – Google Cloud Study Jams 2025**
+
+---
+
+# 💻 Projects
+
+### 📊 Financial Intent Detector
+AI system that detects user financial intents using NLP techniques.
+
+### 🧠 NoCode ML Trainer
+A platform that allows users to train machine learning models without writing code.
+
+### 🎬 Movie Recommendation System
+Recommendation engine using collaborative filtering techniques.
+
+*(More projects available in my repositories.)*
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced **Data Structures & Algorithms**
+- **Machine Learning frameworks** (TensorFlow / PyTorch)
+- **System Design fundamentals**
+- **AI + Security intersections**
+
+---
+
+# 📈 Competitive Programming
+
+I regularly practice algorithmic problem solving and participate in contests.
+
+- **LeetCode:** 440+ problems solved  
+- **ICPC participant**  
+- Focus areas: Graphs, DP, Greedy, Binary Search, Bit Manipulation
+
+---
+
+# 🌍 Connect With Me
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/hemanthkumar-bhat-02b860319
+
+📧 Email  
+bhathemanthkumar@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories and connect if you'd like to collaborate!*

@@ -30,8 +30,8 @@ C | C++ | Java | Python
 
 # 🏆 Achievements
 
-- 🧠 **Solved 440+ problems on LeetCode**
-- 📈 **LeetCode Rating: 1749**
+- 🧠 **Solved 520+ problems on LeetCode**
+- 📈 **LeetCode Rating: 1754**
 - 🏅 **ICPC 2025 Preliminary Round – Rank 1452**
 - ☁️ **Silver League – Google Cloud Study Jams 2025**
 
@@ -65,7 +65,7 @@ Recommendation engine using collaborative filtering techniques.
 
 I regularly practice algorithmic problem solving and participate in contests.
 
-- **LeetCode:** 440+ problems solved  
+- **LeetCode:** 520+ problems solved  
 - **ICPC participant**  
 - Focus areas: Graphs, DP, Greedy, Binary Search, Bit Manipulation
 

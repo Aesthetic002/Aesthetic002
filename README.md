@@ -79,7 +79,7 @@ I'm a Computer Science undergraduate at **RV College of Engineering (RVCE)**, Be
 ### 💻 Featured Projects
 
 <details>
-<summary><b>🤖 AI-Driven SDN Traffic Controller</b> — Jun 2026</summary>
+<summary><b>🤖 AI-Driven SDN Traffic Controller</b> — May – Jun 2026</summary>
 <br>
 
 `Python` · `Ryu` · `OpenFlow` · `Mininet` · `PyTorch` · `Open vSwitch`
@@ -90,7 +90,7 @@ Architected an AI-driven SDN traffic controller using Ryu, OpenFlow, and a Dueli
 </details>
 
 <details>
-<summary><b>🧠 Second Brain — AI Knowledge Management System</b> — Jun 2026</summary>
+<summary><b>🧠 Second Brain — AI Knowledge Management System</b> — May – Jun 2026</summary>
 <br>
 
 `Next.js` · `FastAPI` · `PostgreSQL` · `pgvector` · `Elasticsearch` · `D3.js` · `LangChain`
@@ -101,7 +101,7 @@ An AI-native personal knowledge management system that auto-classifies, tags, an
 </details>
 
 <details>
-<summary><b>📱 Promote — Social Media Automation SaaS</b> — Jun 2026</summary>
+<summary><b>📱 Promote — Social Media Automation SaaS</b> — May – Jul 2026</summary>
 <br>
 
 `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Docker` · `OAuth`

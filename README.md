@@ -30,8 +30,8 @@ C | C++ | Java | Python
 
 # 🏆 Achievements
 
-- 🧠 **Solved 520+ problems on LeetCode**
-- 📈 **LeetCode Rating: 1754**
+- 🧠 **Solved 600+ problems on LeetCode**
+- 📈 **LeetCode Rating: 1789**
 - 🏅 **ICPC 2025 Preliminary Round – Rank 1452**
 - ☁️ **Silver League – Google Cloud Study Jams 2025**
 
